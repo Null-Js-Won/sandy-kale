@@ -1,7 +1,5 @@
 ---
-title: homepage
-description: >-
-  My awesome list is a custom theme for creating a site with a directory of
-  websites using stackbit.
+title: FOR REAL
+description: Wash your produce. Someone at publix has the corona
 layout: home
 ---
